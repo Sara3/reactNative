@@ -1,6 +1,8 @@
+to View:
+
 1. clone this repo
 2. cd albums [this project dir]
-3. react-native run-ios
+3. run: react-native run-ios
 
 
 <p align="center">
